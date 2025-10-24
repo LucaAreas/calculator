@@ -26,18 +26,14 @@ and see how pure logic can turn into design.
 
 ## 🧩 Project Structure
 
-calculator/
-│
-├── main.py # Main calculator script
-├── README.md # This file
-└── assets/ # (optional) Icons, images, etc.
+<img width="283" height="85" alt="image" src="https://github.com/user-attachments/assets/2d476535-658f-4919-8bef-1e913ec8d91b" />
 
 ---
 
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/calculator-tkinter.git
+   git clone https://github.com/LucaAreas/calculator-tkinter.git
    cd calculator-tkinter
 
 2. Run the application:
